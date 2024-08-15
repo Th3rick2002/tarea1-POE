@@ -1,0 +1,10 @@
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 5\bin\Debug\ejercicio 5.exe.config
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 5\bin\Debug\ejercicio 5.exe
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 5\bin\Debug\ejercicio 5.pdb
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 5\obj\Debug\ejercicio 5.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 5\obj\Debug\ejercicio_5.Form1.resources
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 5\obj\Debug\ejercicio_5.Properties.Resources.resources
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 5\obj\Debug\ejercicio 5.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 5\obj\Debug\ejercicio 5.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 5\obj\Debug\ejercicio 5.exe
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 5\obj\Debug\ejercicio 5.pdb

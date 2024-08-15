@@ -1,0 +1,16 @@
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\bin\Debug\net8.0-windows\ejercicio 6.exe
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\bin\Debug\net8.0-windows\ejercicio 6.deps.json
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\bin\Debug\net8.0-windows\ejercicio 6.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\bin\Debug\net8.0-windows\ejercicio 6.dll
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\bin\Debug\net8.0-windows\ejercicio 6.pdb
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\obj\Debug\net8.0-windows\ejercicio_6.Form1.resources
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\obj\Debug\net8.0-windows\ejercicio 6.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\obj\Debug\net8.0-windows\ejercicio 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\obj\Debug\net8.0-windows\ejercicio 6.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\obj\Debug\net8.0-windows\ejercicio 6.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\obj\Debug\net8.0-windows\ejercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\obj\Debug\net8.0-windows\ejercicio 6.dll
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\obj\Debug\net8.0-windows\refint\ejercicio 6.dll
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\obj\Debug\net8.0-windows\ejercicio 6.pdb
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\obj\Debug\net8.0-windows\ejercicio 6.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\ejercicio 5\ejercicio 6\obj\Debug\net8.0-windows\ref\ejercicio 6.dll
