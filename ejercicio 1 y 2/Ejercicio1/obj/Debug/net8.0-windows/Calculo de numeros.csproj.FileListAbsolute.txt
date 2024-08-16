@@ -1,0 +1,16 @@
+C:\Users\Saritmar\source\repos\Calculo de numeros\bin\Debug\net8.0-windows\Calculo de numeros.exe
+C:\Users\Saritmar\source\repos\Calculo de numeros\bin\Debug\net8.0-windows\Calculo de numeros.deps.json
+C:\Users\Saritmar\source\repos\Calculo de numeros\bin\Debug\net8.0-windows\Calculo de numeros.runtimeconfig.json
+C:\Users\Saritmar\source\repos\Calculo de numeros\bin\Debug\net8.0-windows\Calculo de numeros.dll
+C:\Users\Saritmar\source\repos\Calculo de numeros\bin\Debug\net8.0-windows\Calculo de numeros.pdb
+C:\Users\Saritmar\source\repos\Calculo de numeros\obj\Debug\net8.0-windows\Calculo_de_numeros.Form1.resources
+C:\Users\Saritmar\source\repos\Calculo de numeros\obj\Debug\net8.0-windows\Calculo de numeros.csproj.GenerateResource.cache
+C:\Users\Saritmar\source\repos\Calculo de numeros\obj\Debug\net8.0-windows\Calculo de numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saritmar\source\repos\Calculo de numeros\obj\Debug\net8.0-windows\Calculo de numeros.AssemblyInfoInputs.cache
+C:\Users\Saritmar\source\repos\Calculo de numeros\obj\Debug\net8.0-windows\Calculo de numeros.AssemblyInfo.cs
+C:\Users\Saritmar\source\repos\Calculo de numeros\obj\Debug\net8.0-windows\Calculo de numeros.csproj.CoreCompileInputs.cache
+C:\Users\Saritmar\source\repos\Calculo de numeros\obj\Debug\net8.0-windows\Calculo de numeros.dll
+C:\Users\Saritmar\source\repos\Calculo de numeros\obj\Debug\net8.0-windows\refint\Calculo de numeros.dll
+C:\Users\Saritmar\source\repos\Calculo de numeros\obj\Debug\net8.0-windows\Calculo de numeros.pdb
+C:\Users\Saritmar\source\repos\Calculo de numeros\obj\Debug\net8.0-windows\Calculo de numeros.genruntimeconfig.cache
+C:\Users\Saritmar\source\repos\Calculo de numeros\obj\Debug\net8.0-windows\ref\Calculo de numeros.dll
